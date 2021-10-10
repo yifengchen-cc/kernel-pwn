@@ -1177,7 +1177,11 @@ int main(int argc, char *argv[]) {
 ## 参考链接
 
 [1] https://www.cnblogs.com/LittleHann/p/4116368.html
+
 [2] https://ctf.njupt.edu.cn/627.html
+
 [3] https://www.bsi.bund.de/SharedDocs/Downloads/EN/BSI/Publications/Studies/LinuxRNG/LinuxRNG_EN.pdf?__blob=publicationFile&v=20
+
 [4] https://www.jianshu.com/p/310eb3de3aa1
+
 [5] https://www.anquanke.com/post/id/245271

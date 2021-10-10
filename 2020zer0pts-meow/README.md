@@ -782,8 +782,13 @@ flag: zer0pts{*****CENSORED*****}
 ## 参考资料
 
 [1] https://pr0cf5.github.io/ctf/2020/03/09/the-plight-of-tty-in-the-linux-kernel.html
+
 [2] https://nanxiao.me/en/why-doesnt-linux-device-driver-need-to-update-file-position-in-readwrite-functions/
+
 [3] https://cateee.net/lkddb/web-lkddb/HARDENED_USERCOPY.html
+
 [4] https://blog.infosectcbr.com.au/2020/03/weaknesses-in-linux-kernel-heap.html
+
 [5] https://lwn.net/Articles/741878/
+
 [6] https://github.com/pr0cf5/kernel-exploit-practice/tree/master/bypass-smep
